@@ -12,7 +12,7 @@ export default (
     </Heading>
     <Image src={images.polymer_logo} margin="0px auto 40px" height="293px" />
     <Text margin="10px 0 0" textColor="tertiary" size={1}>
-      Mike Geyser
+      @mikegeyser
     </Text>
     <Text margin="10px 0 0" textColor="tertiary" size={1}>
       GDG Johannesburg

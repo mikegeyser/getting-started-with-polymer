@@ -13,14 +13,20 @@ require("spectacle/lib/themes/default/index.css");
 const slidesImports = [
   import("./slides/title"),
   import("./slides/introduction"),
-  import("./slides/agenda"),
-  import("./slides/javascript-aliens"),
+  import("./slides/web-is-like-a-shark"),
+  import("./slides/polymer-project"),
+  import("./slides/polymer-history"),
+  import("./slides/who-uses-polymer"),
   import("./slides/polymer-2-hello-world-1"),
   import("./slides/polymer-2-hello-world-2"),
   import("./slides/polymer-2-pros-and-cons"),
   import("./slides/polymer-3-hello-world-1"),
   import("./slides/polymer-3-hello-world-2"),
+  import("./slides/polymer-3-hello-world-3"),
   import("./slides/polymer-3-pros-and-cons"),
+  import("./slides/lit-html"),
+  import("./slides/polymer-3-lit-html"),
+  import("./slides/tools"),
   import("./slides/questions")
 ];
 

@@ -2,7 +2,7 @@ import { Element as PolymerElement } from "../node_modules/@polymer/polymer/poly
 
 export class HelloWorld extends PolymerElement {
   static get template() {
-    return `<h1>Hello {{name}}!</h1>`;
+    return `<h1>Hello [[name]]!</h1>`;
   }
 
   static get properties() {
