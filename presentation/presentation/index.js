@@ -14,6 +14,9 @@ const slidesImports = [
   import("./slides/title"),
   import("./slides/introduction"),
   import("./slides/web-is-like-a-shark"),
+  import("./slides/old-school"),
+  import("./slides/obsolete-tech"),
+  import("./slides/revolution"),
   import("./slides/polymer-project"),
   import("./slides/polymer-history"),
   import("./slides/who-uses-polymer"),
@@ -27,6 +30,7 @@ const slidesImports = [
   import("./slides/lit-html"),
   import("./slides/polymer-3-lit-html"),
   import("./slides/tools"),
+  import("./slides/webcomponent-support"),
   import("./slides/questions")
 ];
 

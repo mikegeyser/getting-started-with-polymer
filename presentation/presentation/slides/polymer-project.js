@@ -8,7 +8,7 @@ export default (
       <Image
         src={images.polymer_logo}
         margin="0px 0px -4px 0px"
-        height="52px"
+        height="0.8em"
       />
       &nbsp;Polymer Project
     </h1>
