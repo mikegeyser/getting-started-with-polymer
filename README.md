@@ -11,7 +11,7 @@ It is in pursuit of this that the latest version of Polymer was announced, infor
 This talk will give a brief overview of Polymer 3.0, the direction of WebComponents and make a case for why you should care about Polymer and the direction of the Web Platform.
 
 # Slides can be viewed here
-[](mikegeyser.github.io/getting-started-with-polymer/)
+[mikegeyser.github.io/getting-started-with-polymer/](mikegeyser.github.io/getting-started-with-polymer/)
 
 # Recording can be watched here
 [![A recording of the talk](https://img.youtube.com/vi/aU6y16StdGA/0.jpg)](https://www.youtube.com/watch?v=aU6y16StdGA)
