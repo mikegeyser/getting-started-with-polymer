@@ -12,4 +12,4 @@ This talk will give a brief overview of Polymer 3.0, the direction of WebCompone
 
 [Slides can be viewed here](mikegeyser.github.io/getting-started-with-polymer/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aU6y16StdGA" frameborder="0" allowfullscreen></iframe>
+[![A recording of the talk](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=aU6y16StdGA)
